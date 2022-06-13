@@ -1,0 +1,20 @@
+##code for multiplying by 10
+print("enter number to be multiplied by 10")
+value = int(input())
+print(value * 10)
+##code for calculating hours
+print("enter amount of hours you worked this week")
+hours = int(input())
+print("amount of hours you worked for the past five days:")
+print(hours * 5)
+print("amount of hours you have worked for the past year")
+print(hours * 252)
+##code for length and width
+print("enter length of rug")
+l = int(input())
+print("enter width of rug")
+w = int(input())
+print("the perimeter of the rug is")
+print(2*(l + w))
+print("the area of the rug is")
+print(l * w)
